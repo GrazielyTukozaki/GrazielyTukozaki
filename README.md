@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrazielyTukozaki
 - 👀 I’m interested in web development with focus on web apps 
-- 🌱 I’m currently learning JavaScript and Angular. And planning to learn React and Node.
+- 🌱 I’m currently learning JavaScript and React. And planning to learn Angular and Node.
 - 💞️ I'm looking to collaborate on intermediate challenging projects.
 - 📫 Feel free to email me at hi@grazi.tukozaki.dev
 
