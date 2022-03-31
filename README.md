@@ -14,3 +14,6 @@ With his help, now i self confident to broke barriers and face off every difficu
 --->
 
 
+## This is my commits evolution
+
+![snake gif](https://github.com/GrazielyTukozaki/GrazielyTukozaki/blob/output/github-contribution-grid-snake.gif)
