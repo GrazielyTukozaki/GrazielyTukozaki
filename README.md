@@ -13,5 +13,4 @@ But all changed last year (2020), like every one, i rethink my life, and asked h
 With his help, now i self confident to broke barriers and face off every difficult that cross my way. 
 --->
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.2
+
