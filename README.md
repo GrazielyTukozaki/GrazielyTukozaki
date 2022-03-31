@@ -12,3 +12,6 @@ I always loved technology and programming, but i thought that this beautiful (an
 But all changed last year (2020), like every one, i rethink my life, and asked help to learn web development to my husband, a senior programer. 
 With his help, now i self confident to broke barriers and face off every difficult that cross my way. 
 --->
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v1.1.2
