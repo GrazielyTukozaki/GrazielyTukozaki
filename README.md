@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrazielyTukozaki, a FullStack Developer. My stack: ReactJS | NodeJS
+- 👋 Hi, I’m @GrazielyTukozaki, a FullStack Developer. My stack: Angular 2 | ReactJS | NodeJS
 - 🌱 I have knowledge starving, so I never stop to learn new things.
 - 👀 I’m interested in web development with focus on web apps 
 - 💞️ I'm looking to collaborate on intermediate challenging projects.
